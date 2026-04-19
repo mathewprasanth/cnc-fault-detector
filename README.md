@@ -1,4 +1,4 @@
-```markdown
+
 # CNC Fault Detector
 
 Real-time CNC machine fault detection using a PyTorch neural network trained on sensor data — predicting tool failure before it happens.
@@ -176,4 +176,3 @@ AI/ML Engineer
 [LinkedIn](https://www.linkedin.com/in/mathewprasanth/) · [Live Demo](http://43.205.255.123:8000/)
 
 AWS Certified Cloud Practitioner · AWS Certified Machine Learning Specialty
-```
